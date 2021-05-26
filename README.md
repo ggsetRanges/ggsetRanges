@@ -59,7 +59,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 129.226.3.123
 0.0.0.0 119.28.121.174
 0.0.0.0 150.109.29.150
-
+0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com:10012
+0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com:443
+0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com:80
+0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com:8080
 0.0.0.0 asia.csoversea.anticheatexpert.com 
 0.0.0.0 asia.anticheatexpert.com
 0.0.0.0 backup-riot-mtp.anticheatexpert.com
